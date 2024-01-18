@@ -1,3 +1,3 @@
 # The Pig Game
 
-## **Multiplayer Game**
+## *Multiplayer Game*
