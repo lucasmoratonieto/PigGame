@@ -16,4 +16,4 @@ If the players gets a one, all the points from that round will be reset to **0**
 
 
 ---------------------------------------------------------------------------------
-Project from Udemy course; [The Complete JavaScript Course 2024: From Zero to Expert!] (https://www.udemy.com/course/the-complete-javascript-course/)
+Project from Udemy course; [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
